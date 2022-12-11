@@ -1,2 +1,2 @@
 # kynews
-A repository set up to test out and do demo of the kynews site
+A repository set up to test out and save the files of KY News Website
