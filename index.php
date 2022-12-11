@@ -138,14 +138,11 @@
       <div class="col-md-6 px-0 bg">
 
         <!--TITLE OF FEATURED BLOG POST-->
-        <h1 class="display-4 fst-italic" 
-        style="
-        -webkit-text-stroke-width: 0.2px;
-        -webkit-text-stroke-color: white;">
+        <h1 class="display-4 fst-italic text-shadow-3 text-light">
         <?php echo $info1['title']; ?></h1>
 
         <!-- DESCRIPTION OF FEATURED BLOG POST-->
-        <p class="lead my-3 text-muted">
+        <p class="lead my-3 text-shadow-3 text-light">
         <?php  echo $info1['description']; ?></p>
 
         <!-- CONTINUE READING POST ; EDIT GET METHOD-->
