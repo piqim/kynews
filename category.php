@@ -208,7 +208,7 @@ session_start();
             $pagination = new Pagination($pagConfig);
 
             //FETCH RECORDS BASED ON OFSET AND LIMIT AND CATEGORY
-            $query3 = mysqli_query($con, "SELECT * FROM news WHERE id_cat = '$idcat' ORDER BY id_news DESC LIMIT $offset, $limit");
+            $query3 = mysqli_query($con, "SELECT * FROM news WHERE id_cat = '$idcat' AND approved='1' ORDER BY id_news DESC LIMIT $offset, $limit");
 
             //I HAVE NO IDEA WHAT'S GOING BUT IT WORKS SO LET'S JUST LEAVE IT AT THAT
             if (!empty($query3) && $query3->num_rows > 0) {

@@ -231,7 +231,7 @@ $info1 = mysqli_fetch_array($data1);
             </p>
           </div>
 
-          <!--ARCHIVES-->
+          <!--ARCHIVES 
           <div class="p-4">
             <h4 class="fst-italic">Archives</h4>
             <ol class="list-unstyled mb-0">
@@ -248,6 +248,15 @@ $info1 = mysqli_fetch_array($data1);
               <li><a href="#">May 2020</a></li>
               <li><a href="#">April 2020</a></li>
             </ol>
+          </div>
+              -->
+
+          <!-- ADS -->
+          <div class="p-4">
+            <h4 class="fst-italic">Ads</h4>
+              <div class="mb-0">
+
+              </div>
           </div>
 
           <!-- SOCIALS OF KY NEWS -->

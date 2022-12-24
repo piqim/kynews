@@ -14,9 +14,15 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="KY News is an effort designed, maintained and initiated by students from KYUEM in hopes to further bloom our passion and interest for Journalism and Free Speech.">
-  <meta name="author" content="Piqim, Hugo 0.104.2 and Bootstrap">
-  <meta name="generator" content="Hugo 0.104.2">
+
+  <!-- SEO GOOGLE -->
+  <meta name="description" content="KY News is an effort designed, maintained and initiated by students from KYUEM in hopes to further bloom our passion and interest for Journalism and Free Speech." />
+  <meta name="author" content="Piqim, KY News and Bootstrap" />
+  <meta name="generator" content="KY News" />
+  <meta name="robots" content="index, follow, general, sports, world, kyuem" />
+  <meta name="keywords" content="base, scholars, scholarship, khazanah, petronas, bank negara, BASE Initiative, help, student, jpa, mara, biasiswa, spm, sijil pelajaran malaysia, malaysia, afterschool, kpm, pendidikan, khazanah, 9A+. 10A+, straight A, straight A's, tiktok spm, zaim qhodi, anwar ibrahim, kyuem, news, berita, berita, kolej yayasan uem, qiab, alevels, cambridge, oxford, lembah beringin, tanjung malim"/>
+
+  <link rel="canonical" href="piqim.com">
   <title>KYUEM News Website</title>
 
   <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/blog/">
